@@ -255,6 +255,12 @@ a:focus {
 .pos-10 {
  	grid-area: 37 / 39 / 48 / 47;
 }
+pos-11 {
+	grid-area: 30 / 32 / 48 / 7;
+}
+pos-12 {
+	grid-area: 22 / 31 / 48 / 26;
+}
 
 .content__title {
 	font-family: myFont;
